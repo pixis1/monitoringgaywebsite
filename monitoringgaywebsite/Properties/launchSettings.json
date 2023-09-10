@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "monitoringgaywebsite": {
+      "commandName": "Project",
+      "commandLineArgs": "ya.ru"
+    }
+  }
+}
